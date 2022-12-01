@@ -1,10 +1,9 @@
 [package]
-name = "sub_projects"
-publish = false
+name = "xtoml"
 version = "0.0.0"
 authors = ["Aster <192607617@qq.com>"]
-description = "..."
-repository = "..."
+description = "Toml with extended functions"
+repository = "https://github.com/oovm/xToml"
 readme = "README.md"
 license = "MPL-2.0"
 edition = "2018"
