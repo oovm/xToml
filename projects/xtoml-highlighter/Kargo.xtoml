@@ -1,5 +1,8 @@
+@import "@Shared.xtoml"
+@export "Cargo.toml"
+
 [package]
-name = "xtoml-parser"
+name = "xtoml-highlighter"
 version = "0.0.0"
 authors = ["Aster <192607617@qq.com>"]
 description = "..."
@@ -9,10 +12,9 @@ license = "MPL-2.0"
 edition = "2018"
 
 [dependencies]
-peginator = "0.6.0"
+color-span = "0.2.1"
 
 [dev-dependencies]
-peginator = "0.6.0"
 
 [features]
 default = []

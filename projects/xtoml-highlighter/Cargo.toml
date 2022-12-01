@@ -9,7 +9,7 @@ license = "MPL-2.0"
 edition = "2018"
 
 [dependencies]
-
+color-span = "0.2.1"
 
 [dev-dependencies]
 

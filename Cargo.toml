@@ -1,7 +1,7 @@
 [workspace]
 members = ["projects/*"]
 default-members = [
-    "projects/xtoml",
+    "projects/xtoml-types",
 ]
 exclude = [
     "projects/.DS_Store",
